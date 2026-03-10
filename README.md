@@ -46,7 +46,6 @@ The voice recognition module processes spoken commands and sends corresponding s
 The system was developed using the following hardware components:
 
 - Microcontroller (system control unit)
-- Voice recognition module
 - Microphone for voice input
 - OLED display module
 - Power supply unit
@@ -74,9 +73,9 @@ The program enables the OLED display to scroll through menu items based on the u
 
 The system operates by capturing spoken commands from the user through a microphone. The voice recognition module processes the speech input and identifies predefined commands such as:
 
-- **Up** – scrolls the menu upward
-- **Down** – scrolls the menu downward
-- **Select** – confirms a menu option
+- **Go Up** – scrolls the menu upward
+- **Go Down** – scrolls the menu downward
+- **Enter** – selects/confirms a menu option
 
 Once a command is recognized, the module sends a signal to the microcontroller. The microcontroller interprets the command and updates the OLED display accordingly, causing the menu to scroll or select the desired option.
 
