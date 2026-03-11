@@ -113,7 +113,7 @@ This project demonstrates knowledge and skills in:
 
 Images of system setup and OLED interface below.
 
-![Full System Setup]()
+![Full System Setup](https://github.com/Hackmonstar/AI-Based-Voice-Controlled-OLED-Menu/blob/main/images/full_image.png)
 
 ![OLED Menu Display]()
 
