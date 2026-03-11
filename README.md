@@ -45,11 +45,11 @@ The voice recognition module processes spoken commands and sends corresponding s
 
 The system was developed using the following hardware components:
 
-- Microcontroller (system control unit)- Esp32C3 
-- Microphone for voice input - I2S microphone module
-- OLED display module - 0.96 inch OLED screen
+- Microcontroller (system control unit)- Esp32C3 ![System Setup](image1.jpg)
+- Microphone for voice input - I2S microphone module ![System Setup](image1.jpg)
+- OLED display module - 0.96 inch OLED screen ![System Setup](image1.jpg)
 - Power supply unit
-- Interface circuitry and connecting wires
+- Interface circuitry, breadboard and connecting wires
 
 The OLED display provides a compact and energy-efficient interface for visualizing the menu system.
 
