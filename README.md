@@ -73,7 +73,7 @@ The program enables the OLED display to scroll through menu items based on the u
 
 ## Working Principle
 
-The system operates by capturing spoken commands from the user through a microphone. The voice recognition module processes the speech input and identifies predefined commands such as:
+The system operates by capturing spoken commands from the user through a microphone. The voice recognition system processes the speech input and identifies predefined commands such as:
 
 - **Go Up** – scrolls the menu upward
 - **Go Down** – scrolls the menu downward
