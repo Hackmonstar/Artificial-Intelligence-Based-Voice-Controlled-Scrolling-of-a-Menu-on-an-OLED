@@ -4,7 +4,7 @@
 
 This project presents the design and implementation of a voice-controlled menu navigation system displayed on an OLED screen. The system uses artificial intelligence-based voice recognition to allow users to navigate and scroll through menu options using spoken commands.
 
-The project demonstrates how voice recognition technology can be integrated with embedded systems to enable intuitive human–machine interaction. By using voice commands such as “up”, “down”, or “select”, the user can scroll through menu items displayed on the OLED screen without physical buttons.
+The project demonstrates how voice recognition technology can be integrated with embedded systems to enable intuitive human–machine interaction. By using voice commands such as “Go up”, “Go down”, or “Enter”, the user can scroll through menu items displayed on the OLED screen without physical buttons.
 
 The system integrates artificial intelligence, embedded systems, voice processing, and display technology to create a hands-free user interface.
 
