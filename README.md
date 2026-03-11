@@ -129,13 +129,17 @@ Close view of OLED Menu Display and Esp32C3 mini
 <br>
 ![Hardware Components](https://github.com/Hackmonstar/AI-Based-Voice-Controlled-OLED-Menu/blob/main/images/i2s%20mic.png)
 
+Close view of I2s microphone
+
 ---
 
 ## Demonstration Video
 
 Watch the project demonstration here:
 
-Project Demo:  https://www.youtube.com/watch?v=M5CFcLE_sXM
+Project Demo(short): https://www.youtube.com/watch?v=M5CFcLE_sXM
+
+Project Demo(Full): https://www.youtube.com/watch?v=RHDJYKifsn4
 
 ---
 
