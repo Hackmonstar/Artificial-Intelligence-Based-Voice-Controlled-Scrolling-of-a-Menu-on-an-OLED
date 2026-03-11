@@ -39,7 +39,7 @@ User Voice Command → Microphone → ESP32C3 mini (with voice recognition softw
 
 The voice recognition system processes spoken commands and sends corresponding signals to the microcontroller, which updates the displayed menu accordingly.
 
-The voice command dataset was trained using the Edge Impulse platform, and the resulting trained model was integrated into the firmware running on the ESP32-C3 for real-time voice command recognition system. 
+The voice command dataset was trained using the Edge Impulse platform, and the resulting trained model and generated API was integrated into the firmware running on the ESP32-C3 for real-time voice command recognition system. 
 
 ---
 
@@ -62,7 +62,7 @@ The OLED display provides a compact and energy-efficient interface for visualizi
 The system software performs the following key functions:
 
 - Capturing voice input through the microphone
-- Processing voice commands using the voice recognition module
+- ESP32C3 mini processes voice commands using the integrated voice recognition system.
 - Interpreting recognized commands
 - Updating the menu display on the OLED screen
 - Implementing menu scrolling logic
@@ -79,7 +79,7 @@ The system operates by capturing spoken commands from the user through a microph
 - **Go Down** – scrolls the menu downward
 - **Enter** – selects/confirms a menu option
 
-Once a command is recognized, the module sends a signal to the microcontroller. The microcontroller interprets the command and updates the OLED display accordingly, causing the menu to scroll or select the desired option.
+Once a command is recognized, the microcontroller interprets the command and updates the OLED display accordingly, causing the menu to scroll or select the desired option.
 
 This creates a hands-free menu navigation system.
 
