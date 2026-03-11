@@ -118,7 +118,7 @@ Images of system setup and OLED interface below.
 
 Image of Full System Setup
 
-![OLED Menu Display]()
+![OLED Menu Display](https://github.com/Hackmonstar/AI-Based-Voice-Controlled-OLED-Menu/blob/main/images/oledproject.png)
 
 Close view of OLED Menu Display
 
