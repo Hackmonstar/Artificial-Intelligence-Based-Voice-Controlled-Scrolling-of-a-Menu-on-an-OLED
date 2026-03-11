@@ -45,9 +45,9 @@ The voice recognition module processes spoken commands and sends corresponding s
 
 The system was developed using the following hardware components:
 
-- Microcontroller (system control unit)
-- Microphone for voice input
-- OLED display module
+- Microcontroller (system control unit)- Esp32C3 
+- Microphone for voice input 
+- OLED display module - 0.96 inch OLED screen
 - Power supply unit
 - Interface circuitry and connecting wires
 
