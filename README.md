@@ -47,7 +47,7 @@ The system was developed using the following hardware components:
 
 - Microcontroller (system control unit)- Esp32C3 mini ![c3image](https://github.com/Hackmonstar/AI-Based-Voice-Controlled-OLED-Menu/blob/main/images/c3_image.png)
 - Microphone for voice input - I2S microphone module ![Mic image](https://github.com/Hackmonstar/AI-Based-Voice-Controlled-OLED-Menu/blob/main/images/mic_image.png)
-- OLED display module - 0.96 inch OLED screen ![System Setup](https://github.com/Hackmonstar/AI-Based-Voice-Controlled-OLED-Menu/blob/main/images/oled%20image.jpg)
+- OLED display module - 0.96 inch OLED screen ![Oled image](https://github.com/Hackmonstar/AI-Based-Voice-Controlled-OLED-Menu/blob/main/images/oled%20image.jpg)
 - Power supply unit
 - Interface circuitry, breadboard and connecting wires
 
@@ -111,13 +111,13 @@ This project demonstrates knowledge and skills in:
 
 ## Project Images
 
-Add images of the system setup and OLED interface below.
+Images of system setup and OLED interface below.
 
-![System Setup](image1.jpg)
+![Full System Setup]()
 
-![OLED Menu Display](image2.jpg)
+![OLED Menu Display]()
 
-![Hardware Components](image3.jpg)
+![Hardware Components]()
 
 ---
 
