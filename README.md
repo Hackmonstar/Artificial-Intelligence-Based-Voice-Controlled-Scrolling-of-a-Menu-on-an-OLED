@@ -28,16 +28,16 @@ The system consists of several interconnected components responsible for voice r
 
 Main subsystems include:
 
-1. Voice input and recognition system
-2. Embedded processing unit
+1. Voice input 
+2. Embedded processing unit (ESP32C3 mini) with and recognition system software
 3. OLED display interface
 4. Menu control logic
 
 System workflow:
 
-User Voice Command → Microphone → Voice Recognition Module → Microcontroller → OLED Display → Menu Navigation
+User Voice Command → Microphone → ESP32C3 mini → OLED Display → Menu Navigation
 
-The voice recognition module processes spoken commands and sends corresponding signals to the microcontroller, which updates the displayed menu accordingly.
+The voice recognition system processes spoken commands and sends corresponding signals to the microcontroller, which updates the displayed menu accordingly.
 
 ---
 
