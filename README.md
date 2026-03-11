@@ -45,7 +45,7 @@ The voice recognition module processes spoken commands and sends corresponding s
 
 The system was developed using the following hardware components:
 
-- Microcontroller (system control unit)- Esp32C3 ![System Setup](image1.jpg)
+- Microcontroller (system control unit)- Esp32C3 ![c3image](https://github.com/Hackmonstar/AI-Based-Voice-Controlled-OLED-Menu/blob/main/images/ESP32-C3-MINI-image.jpg)
 - Microphone for voice input - I2S microphone module ![System Setup](image1.jpg)
 - OLED display module - 0.96 inch OLED screen ![System Setup](image1.jpg)
 - Power supply unit
