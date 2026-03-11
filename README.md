@@ -125,8 +125,7 @@ Images of system setup and OLED interface below.
 
 Watch the project demonstration here:
 
-Project Demo:  
-https://youtube.com/your-video-link
+Project Demo:  https://www.youtube.com/watch?v=M5CFcLE_sXM
 
 ---
 
