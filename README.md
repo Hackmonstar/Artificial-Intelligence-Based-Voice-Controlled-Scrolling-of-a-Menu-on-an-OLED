@@ -35,9 +35,11 @@ Main subsystems include:
 
 System workflow:
 
-User Voice Command → Microphone → ESP32C3 mini → OLED Display → Menu Navigation
+User Voice Command → Microphone → ESP32C3 mini (with voice recognition software) → OLED Display → Menu Navigation
 
 The voice recognition system processes spoken commands and sends corresponding signals to the microcontroller, which updates the displayed menu accordingly.
+
+The voice command dataset was trained using the Edge Impulse platform, and the resulting trained model was integrated into the firmware running on the ESP32-C3 for real-time voice command recognition system. 
 
 ---
 
